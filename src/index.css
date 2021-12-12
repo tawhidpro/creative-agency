@@ -8,3 +8,13 @@ body {
 code {
   font-family: 'Poppins', sans-serif;
 }
+
+.color-primary{
+  color: #7AB259;
+}
+.text-primary{
+  color: #111430;
+}
+.color-yellow{
+  color: #FAD062;
+}

@@ -1,0 +1,26 @@
+.services-section h2{
+    font-size: 34px;
+    color: #2d2d2d;
+    font-weight: 600;
+    font-family: "Poppins";
+    text-align: center;
+}
+
+.services-icon{
+    width: 60px;
+}
+
+.services-title{
+    font-size: 20px;
+    color: #111430;
+    font-weight: 600;
+    font-family: "Poppins";
+    text-align: center;
+}
+.services-des{
+    font-size: 16px;
+    color: #000000;
+    font-weight: 300;
+    font-family: "Poppins";
+    text-align: center;
+}
