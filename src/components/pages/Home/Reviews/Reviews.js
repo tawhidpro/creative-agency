@@ -37,7 +37,7 @@ const Reviews = () => {
                 <Row>
                     {
                         userReviews.map(item=>{
-                            return <Col >
+                            return <Col sm={12} md={4} >
                                         <div className='border p-3'>
                                             <div className='d-flex'>
                                                 <div>
